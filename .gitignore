@@ -1,0 +1,7 @@
+/libwgpu_native.cs
+/Bind.cs
+bin
+obj
+/.vscode
+/wgpu-native
+/vendor/lib/libwgpu_native_debug.so
